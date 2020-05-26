@@ -1,0 +1,9 @@
+This is how you would use this
+
+ModToggle.saveIsEnabledToFile("Mod", true);
+ModToggle.saveIsEnabledToFile("Mod", false);
+
+Have fun!
+plz credit me ;(
+
+or dont
